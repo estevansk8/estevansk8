@@ -35,11 +35,11 @@
 ## 📌 Tools and Technologies
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" align="center" heigth="45" width="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1200px-Android_Studio_Logo_%282023%29.svg.png" align="center" heigth="45" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" heigth="20" width="35"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" heigth="20" width="35"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" heigth="20" width="35"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" align="center" heigth="35" width="35"/>
+  <img alt="IntelliJ logo" style="height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" align="center" heigth="20" width="35"/>
 </div>
 
 ----
@@ -50,9 +50,16 @@
 
 ----
 ## Contact
-<a href="http://www.linkedin.com/in/estevan-martins-de-sousa">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="80" width="80"  />
+<div>
+    <a href="http://www.linkedin.com/in/estevan-martins-de-sousa">
+    <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" aligned="center" height="100" width="110"  />
 </a>
+
+<a href="https://www.instagram.com/estevan.ems/">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" aligned="center" height="100" width="100" 
+</a>
+</div>
+
 
 
 <!--
