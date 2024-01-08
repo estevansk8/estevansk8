@@ -48,7 +48,7 @@
 
 ----
 ## Contato
-<a href="https://http://www.linkedin.com/in/estevan-martins-de-sousa">
+<a href="http://www.linkedin.com/in/estevan-martins-de-sousa">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="80" width="80"  />
 </a>
 
