@@ -1,36 +1,39 @@
-### Hi there, I'm Estevan Sousa 👋
+# Hi there, I'm Estevan Sousa 👋
 ----
+
 ## 🎓 Education
 -  I am currently an undergraduate student in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
+----
+
 
 ## 📕 Currently learning
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" heigth="50" width="60">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" heigth="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" heigth="50" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align="center" heigth="50" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" align="center" heigth="30" width="45">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" heigth="30" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" heigth="30" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align="center" heigth="30" width="45">
 </div>
 
 ## ⏰ Programming languages I've coded before 
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" heigth="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" heigth="30" width="45"/>
 </div>
 
 ## 📌 Tools and Technologies
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" align="center" heigth="50" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" heigth="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" align="center" heigth="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain-wordmark.svg" align="center" heigth="30" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" heigth="30" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" align="center" heigth="30" width="45"/>
 </div>
 
 ## 💬 Languages that I speak
@@ -45,7 +48,7 @@
 
 ----
 ## Contato
-<a href="https://www.linkedin.com/in/miguel-alves-746690225">
+<a href="https://http://www.linkedin.com/in/estevan-martins-de-sousa">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="80" width="80"  />
 </a>
 
