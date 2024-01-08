@@ -1,5 +1,9 @@
 # Hi there, I'm Estevan Sousa 👋
-----
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=estevansk8&show_icons=true&theme=radical" height="150em" width="500em" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansk8&layout=compact" height="150em" align="center" />
+</div>
 
 ## 🎓 Education
 -  I am currently an undergraduate student in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
@@ -43,11 +47,6 @@
 - Portuguese (Mother language)
 - English ( Advanced level )
 - Spanish ( Low/ Intermediate level )
-----
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=estevansk8&show_icons=true&theme=radical" height="150em" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansk8&layout=compact" height="150em" align="center" />
-</div>
 
 ----
 ## Contact
@@ -55,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" aligned="center" height="80" width="80"  />
 </a>
 
-----
 
 <!--
 **Miguel-Silva-Alves/Miguel-Silva-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
