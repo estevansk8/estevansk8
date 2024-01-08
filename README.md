@@ -60,7 +60,9 @@
 </a>
 </div>
 
-
+<details>
+    <summary><h3> A litlle bit about me </h3></summary>
+    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
 
 <!--
 **Miguel-Silva-Alves/Miguel-Silva-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
