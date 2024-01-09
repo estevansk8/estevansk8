@@ -1,13 +1,14 @@
-# Hi there, I'm Estevan Sousa 👋
+# Hi there, I'm Estevan Sousa 🖖
+**`On the eternal journey of learning`**
+<p> Hello, guys! I'm a Brazilian man, 19 years old, and currently an undergraduate student in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). Today, I'm very interested in learning more about Java and mobile development with Kotlin.</p>
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=estevansk8&show_icons=true&theme=radical" height="150em" width="500em" align="center" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansk8&layout=compact" height="150em" align="center" />
 </div>
+<br />
 
-## 🎓 Education
--  I am currently an undergraduate student in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
-----
+<br />
 
 
 ## 📕 Currently learning
@@ -18,8 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" heigth="20" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align="center" heigth="20" width="35">
 </div>
+<br />
 
-----
+
 ## ⏰ Programming languages I've coded before 
 
 <div>
@@ -30,8 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" heigth="20" width="35"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" align="center" heigth="20" width="35"/>
 </div>
+<br />
 
-----
+
 ## 📌 Tools and Technologies
 
 <div>
@@ -41,14 +44,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" heigth="20" width="35"/>  
   <img alt="IntelliJ logo" style="height: 35px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" align="center" heigth="20" width="35"/>
 </div>
+<br />
 
-----
+
+
 ## 💬 Languages that I speak
 - Portuguese (Mother language)
 - English ( Advanced level )
 - Spanish ( Low/ Intermediate level )
+<br />
 
-----
 ## Contact
 <div>
     <a href="http://www.linkedin.com/in/estevan-martins-de-sousa">
@@ -59,10 +64,12 @@
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/413/original/instagram-logo-instagram-icon-transparent-free-png.png" aligned="center" height="100" width="100" 
 </a>
 </div>
+<br />
 
 <details>
-    <summary><h3> A litlle bit about me </h3></summary>
-    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. 
+    <summary><h3> 🙋‍♂️ A litlle bit about me </h3></summary>
+     🚧
+</details>
 
 <!--
 **Miguel-Silva-Alves/Miguel-Silva-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
