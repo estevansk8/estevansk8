@@ -1,13 +1,11 @@
 # Hi there, I'm Estevan Sousa 🖖
 **`On the eternal journey of learning`**
-<p> Hello, guys! I'm a Brazilian man, 21 years old, and currently an undergraduate student in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). At the moment, I'm very interested in learning more about native mobile development with Kotlin and Swift.</p>
+<p> Hello, guys! I'm a Brazilian man gratuate in Systems Analysis and Development at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP). At the moment, I'm very interested in learning more about native mobile development with Kotlin and Swift.</p>
 
-<div>
+<!-- <div>
     <img src="https://github-readme-stats.vercel.app/api?username=estevansk8&show_icons=true&theme=radical" height="150em" width="500em" align="center" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansk8&layout=compact" height="150em" align="center" />
-</div>
-<br />
-
+</div> -->
 <br />
 
 
